@@ -27,11 +27,12 @@ python bakingstore.py
 - data_transaksi.txt → File penyimpanan data transaksi yang dibuat otomatis saat menu "Simpan ke File" dijalankan.
 - README.md → Dokumentasi project.
 
-# 🛠 Daftar Anggota Kelompok 
+# Daftar Anggota Kelompok 
 1. Zivani Fergisha Mescly
 2. Adinda Khoirunnisa 
 3. Quiny Aulia Miranti 
 4. Syalwa Aulia 
 5. Olivia Puji Lestari
+
 
 
